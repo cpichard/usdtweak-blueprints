@@ -15,7 +15,7 @@ Change `/path/to/the/blueprints/location/root` to the root location of the bluep
 
     BlueprintLocations=/Users/john/usdtweak-blueprints/root
 
-The file `usdtweak_gui.ini` is generally found in `$HOME/Library/Preferences/usdtweak_gui.ini` on macOS and xxxxx on Windows.
+The file `usdtweak_gui.ini` is generally found in `$HOME/Library/Preferences/usdtweak_gui.ini` on macOS and `$HOME\AppData\Local\usdtweak_gui.ini` on Windows.
 
  Note that you can add other directories containing blueprints in `BlueprintLocations`, the syntax allows a list of directories separated by semi-colons.
 
